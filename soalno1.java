@@ -7,7 +7,7 @@ public class soalno1 {
         System.out.println(namabelakang[0].isEmpty());
         System.out.println(namabelakang[1].isEmpty());
         System.out.println(namabelakang[2].isEmpty());
-        System.out.println(namabelakang                             [3].isEmpty());
+        System.out.println(namabelakang[3].isEmpty());
         System.out.println(namabelakang[4].isEmpty());
 
     }
